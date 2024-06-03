@@ -161,5 +161,5 @@ You are required to submit the following for review:
 ## Screenshot
 ![Screenshot](./Screenshot%202024-06-02%20182413.png)
 ![Screenshot](./Screenshot 2024-06-02 182725.png)
-![Screenshot]()
-![Screenshot]()
+![Screenshot](./Screenshot%202024-06-03%20130639.png)
+![Screenshot](/Screenshot%202024-06-03%20130702.png)
